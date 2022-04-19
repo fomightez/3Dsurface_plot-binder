@@ -7,6 +7,10 @@
 Click on any `launch binder` badge on this page to begin.
 
 
+### Related
+
+[3Dscatter_plot-binder: 3D scatter plot & related 2D examples via Binder](https://github.com/fomightez/3Dscatter_plot-binder)
+
 ----------
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/3Dsurface_plot-binder/master?filepath=index.ipynb)
