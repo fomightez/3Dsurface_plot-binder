@@ -15,4 +15,6 @@ pyarrow
 cufflinks
 voila
 ipywidgets
+ipylab
+ipympl
 plotnine
