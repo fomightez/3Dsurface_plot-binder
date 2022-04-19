@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/3Dsurface_plot-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/3Dsurface_plot-binder/main?filepath=index.ipynb)
 
 # 3Dsurface_plot-binder
 
@@ -18,4 +18,4 @@ Click on any `launch binder` badge on this page to begin.
 
 ----------
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/3Dsurface_plot-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/3Dsurface_plot-binder/main?filepath=index.ipynb)
