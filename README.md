@@ -7,9 +7,14 @@
 Click on any `launch binder` badge on this page to begin.
 
 
+----------
+
 ### Related
 
 [3Dscatter_plot-binder: 3D scatter plot & related 2D examples via Binder](https://github.com/fomightez/3Dscatter_plot-binder)
+
+----------
+
 
 ----------
 
