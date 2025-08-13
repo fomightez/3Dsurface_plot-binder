@@ -25,6 +25,8 @@ https://mybinder.org/v2/gh/fomightez/3Dsurface_plot-binder/HEAD?labpath=k3d_surf
 
 [3Dscatter_plot-binder: 3D scatter plot & related 2D examples via Binder](https://github.com/fomightez/3Dscatter_plot-binder)
 
+SageMath 10.7 kernel can also make 3D surface plots; see [here](https://gist.github.com/fomightez/036b320e317015beb7f030f2ec36a7fe) for how to run through a demonstration via a MyBinder session using the SageMath 10.7 kernel (at present).
+
 ----------
 
 
